@@ -4,8 +4,8 @@
 ### 1. Clone the repository and install with npm
 ```bash
 $ cd my-folder/
-$ git clone https://github.com/IdeaLabDigital/Starter.git
-$ cd Starter
+$ git clone https://github.com/IdeaLabDigital/Bootstrap-Prototype-Starter.git
+$ cd Bootstrap-Prototype-Starter
 $ npm install
 ```
 
